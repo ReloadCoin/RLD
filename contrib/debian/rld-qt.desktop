@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RLD
+Comment=RLD P2P Cryptocurrency
+Comment[fr]=RLD, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=RLD, eşten eşe kriptografik sanal para birimi
+Exec=rld-qt %u
+Terminal=false
+Type=Application
+Icon=rld128
+MimeType=x-scheme-handler/rld;
+Categories=Office;Finance;
